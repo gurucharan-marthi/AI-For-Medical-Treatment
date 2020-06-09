@@ -12,4 +12,4 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 [- Week 2 ](https://github.com/mk-gurucharan/AI-For-Medical-Treatment/tree/master/Week%202)
 
-[- Week 3 ]
+[- Week 3 ](https://github.com/mk-gurucharan/AI-For-Medical-Treatment/tree/master/Week%203)
